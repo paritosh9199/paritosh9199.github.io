@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Jump Mania</title>
+  <!-- <link rel="shortcut icon" href="images/icons/icon-96x96.png"> -->
+  <link rel="manifest" href="./JumpMania/manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./JumpMania/game.css">
+
+</head>
+
+<body>
+  <script src="./JumpMania/plan.js"></script>
+  <script src="./JumpMania/levels.js"></script>
+
+  <div id="lbl"></div><br>
+  <div id="game"></div>
+  <script>
+    // let simpleLevel = new Level(simpleLevelPlan);
+    // let display = new DOMDisplay(document.body, simpleLevel);
+    // display.syncState(State.start(simpleLevel));
+    runGame(GAME_LEVELS, DOMDisplay);
+  </script>
+
+  <div id="mv-btn">
+      <button id='up'>↑</button>
+      <button id='left'>←</button>
+      <button id='right'>→</button>
+      <button id='down'>↓</button>    
+  </div>
+  
+  <script src="./JumpMania/keypress.js"></script>
+</body>
+
+</html>
