@@ -1,0 +1,14 @@
+[
+    {
+        "id": 100001,
+        "title": "Introduction to Apache Spark and Spark SQL API",
+        "createdOn": "Mon Feb 19 18:06:27 IST 2024",
+        "image": "https://raw.githubusercontent.com/paritosh9199/paritosh9199.github.io/master/cdn/images/5fad7ec263dd798562a31a7e_Apache_Spark_Ecosystem_Intro_Smaller.png",
+        "tags": [
+            "Apache Spark",
+            "Data Engineering",
+            "Data Analytics",
+            "ETL Pipelines"
+        ]
+    }
+]
