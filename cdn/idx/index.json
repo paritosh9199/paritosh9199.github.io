@@ -1,5 +1,17 @@
 [
     {
+        "id": 100002,
+        "title": "Unraveling Data Serialization: Exploring Apache Parquet and Apache Avro",
+        "createdOn": "Thu Feb 29 12:01:03 IST 2024",
+        "image": "https://raw.githubusercontent.com/paritosh9199/paritosh9199.github.io/master/cdn/images/prq-avro.png",
+        "tags": [
+            "Apache Spark",
+            "Apache Parquet",
+            "Apache Avro",
+            "Data Engineering"
+        ]
+    },
+    {
         "id": 100001,
         "title": "Introduction to Apache Spark and Spark SQL API",
         "createdOn": "Mon Jan 8 06:36:42 IST 2024",
